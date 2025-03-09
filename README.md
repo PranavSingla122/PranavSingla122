@@ -1,6 +1,7 @@
 Hey guys👋 , I'm Pranav Singla and welcome to my GitHub
 
 About Me
+
 A passionate learner with a growth mindset, always eager to explore the latest trends in AI, ML and DL.
 
 Skilled in TensorFlow, PyTorch, Scikit-Learn.
